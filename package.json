@@ -19,6 +19,7 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "lodash": "^4.17.21",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "yargs": "^17.3.1"
   }
 }
